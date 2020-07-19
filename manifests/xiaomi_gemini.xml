@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="halium-gemini/android_device_xiaomi_gemini" path="device/xiaomi/gemini" remote="hal" revision="cm-14.1" />
-  <project name="halium-gemini/android_device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="hal" revision="cm-14.1" />
-  <project name="halium-gemini/android_kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" remote="hal" revision="cm-14.1-caf" />
+  <project name="halium-gemini/android_device_xiaomi_gemini" path="device/xiaomi/gemini" remote="hal" revision="52797ddee12b9b88dc806344df1746267ccfc090" />
+  <project name="halium-gemini/android_device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="hal" revision="a38f321de99588b2304134c5be143b1d197a6779" />
+  <project name="halium-gemini/android_kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" remote="hal" revision="ecabd0b2dacb31ebe0fb219d9e55d765215acca5" />
   <project name="halium-gemini/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="hal" revision="cm-14.1" />
   
-  <project name="halium-gemini/Ubuntu-touch" path="device/xiaomi/gemini/ubuntu" remote="hal" />
+  <project name="halium-gemini/Ubuntu-touch" path="device/xiaomi/gemini/ubuntu" remote="hal" revision="43181f7de2c738e334c4d0cc626a059c36134427"/>
 </manifest>
